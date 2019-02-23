@@ -29,6 +29,6 @@ String addressName = "localhost";
 located in the client side with an IP address of the server machine if using them on the same network
 
 
-Note : If using two computer the machines must be on the same network.
+#### Note : If using two computer the machines must be on the same network.
 
-*See pdf loated in project for more information
+#### *See pdf loated in project for more information
